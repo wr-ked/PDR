@@ -1,5 +1,0 @@
-<launch>
-    <arg name="numero" default="3"/>
-    <node name="nodopub_ejercicio2" pkg="p2pkg" type="nodopub_ejercicio2.py" output="screen" args="$(arg numero)"/>
-    <node name="nodosub_ejercicio2" pkg="p2pkg" type="nodosub_ejercicio2.py" output="screen"/>
-</launch>
