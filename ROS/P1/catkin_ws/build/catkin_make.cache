@@ -1,0 +1,2 @@
+servicio_suma
+-DCATKIN_DEVEL_PREFIX=/home/wrked/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/wrked/catkin_ws/install -G Unix Makefiles

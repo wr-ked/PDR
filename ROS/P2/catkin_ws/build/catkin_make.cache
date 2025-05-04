@@ -1,0 +1,2 @@
+p2pkg:primer_paquete
+-DCATKIN_DEVEL_PREFIX=/home/wrked/PDR/ROS/P2/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/wrked/PDR/ROS/P2/catkin_ws/install -G Unix Makefiles
